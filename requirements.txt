@@ -1,7 +1,7 @@
 streamlit
-opencv-python
-mediapipe==0.10.11
-tensorflow==2.10.0
-numpy==1.23.5
-protobuf==3.20.3
+opencv-python-headless
+mediapipe
+tensorflow-cpu
+numpy
+protobuf
 scikit-learn
